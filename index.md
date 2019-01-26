@@ -1,8 +1,8 @@
-<h2 align = "center"> hackingScience Workshops Bridge Academy </h2>
+<h2 align = "center"> hackingEducation Sense Hat Guides</h2>
 
 <br><br>
 
-Welcome! This is the main page that contains all the resources you'll use during this session. 
+Welcome! This is the main page that contains all the resources you'll use during these sessions. 
 
 
 ## Introductory material
@@ -87,30 +87,3 @@ down to 0.
 In this project you'll be creating the classic game _Pong_ on the Sense HAT.
 *Note: This project is very hard, so you might want to attempt an easier project
 before doing this one.*
-
-
-
-### Create your own project
-
-Have you already done one of our projects, and now you want to try to make something of your own? You can start from this empty Trinket project here:
-
-<a href="https://goo.gl/Ai7nR9" target="_blank">https://goo.gl/Ai7nR9</a>
-
-You can discuss with your supervisors about how you could complete the project you want to do. Keep in mind
-that you only just started to learn Python, so you shouldn't try to make something that's *too* advanced yet.
-
-Start thinking about what you are going to create! You will have a budget for equipment, and will be able to work on your project in your own time, think about waht you want to create and build. Here are some links to help start thinking of ideas: 
-
-* <a href="https://www.instructables.com/howto/pi/" target="_blank">https://www.instructables.com/howto/pi/</a>
-* <a href="https://www.raspberrypi.org/blog/pi-in-the-sky-2/" target="_blank">https://www.raspberrypi.org/blog/pi-in-the-sky-2/</a>
-* <a href="https://www.hackster.io/raspberry-pi/products/raspberry-pi-3-model-b" target="_blank">https://www.hackster.io/raspberry-pi/products/raspberry-pi-3-model-b</a>
-* <a href="https://thepihut.com/collections/raspberry-pi-camera" target="_blank">https://thepihut.com/collections/raspberry-pi-camera</a> 
-* <a href="https://www.youtube.com/user/makemagazine/search?query=raspberry%2F" target="_blank">https://www.youtube.com/user/makemagazine/search?query=raspberry%2F</a>
-* <a href="https://shop.pimoroni.com/collections/raspberry-pi/products/pirate-radio-pi-zero-w-project-kit" target="_blank">https://shop.pimoroni.com/collections/raspberry-pi/products/pirate-radio-pi-zero-w-project-kit</a>
-
-### [Submit your project idea](./docs/project_submit.md)
-
-### [Algorithm Session](./docs/bridge_algorithm_session.md) 
-
-### [Pi Projects](./docs/piprojects.md)
-
